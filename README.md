@@ -77,10 +77,10 @@ screenshot-get-tasks2
 screenshot-get-tasks3
 GET /tasks/{task_id}
 screenshot-get-task_by_id1
-screenshot-get-task_by_id(2)
-screenshot-get-task_by_id(3)
-screenshot-get-task_by_id(4)
-screenshot-get-task_by_id(5)
+screenshot-get-task_by_id2
+screenshot-get-task_by_id3
+screenshot-get-task_by_id4
+screenshot-get-task_by_id5
 POST /tasks
 screenshot-post1
 screenshot-post2
